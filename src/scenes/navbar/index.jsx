@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Accredian
+          Apalux
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
